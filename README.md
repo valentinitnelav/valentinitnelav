@@ -4,11 +4,10 @@ I like to build open tools that help researchers monitor biodiversity with affor
 
 Postdoc at [UFZ](https://www.ufz.de/) and [iDiv](https://www.idiv.de/) in Leipzig, Germany.
 
-More about my work, software and publications: **[GitHub website](https://valentinitnelav.github.io/)**
+More about my work, software and publications: [**GitHub website**](https://valentinitnelav.github.io/)
 
 **Work with me:**
 
-I help research groups, conservation organisations and NGOs with:
 - Training and deploying detection/classification models for camera and field imagery
 - Turning raw image collections into clean, annotated, analysis-ready datasets
 - Statistical analysis with reproducible workflows
@@ -16,6 +15,7 @@ I help research groups, conservation organisations and NGOs with:
 📫 You can reach out to me via [LinkedIn](https://www.linkedin.com/in/valentin-stefan/)
 
 ---
+[GitHub website](https://valentinitnelav.github.io/) ·
 [Google Scholar](https://scholar.google.com/citations?user=8HlgXLYAAAAJ&hl=en) ·
 [ORCID](https://orcid.org/0000-0002-4757-8008) ·
 [LinkedIn](https://www.linkedin.com/in/valentin-stefan/) ·
