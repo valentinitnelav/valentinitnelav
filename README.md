@@ -14,6 +14,8 @@ More about my work, software and publications: [**GitHub website**](https://vale
 
 📫 You can reach out to me via [LinkedIn](https://www.linkedin.com/in/valentin-stefan/)
 
+Email is an option too (valentin [dot] stefan [at] idiv.de, or ufz.de), but those inboxes get cluttered with a lot of spam & phishing nowadays, so LinkedIn is safer.
+
 ---
 [GitHub website](https://valentinitnelav.github.io/) ·
 [Google Scholar](https://scholar.google.com/citations?user=8HlgXLYAAAAJ&hl=en) ·
