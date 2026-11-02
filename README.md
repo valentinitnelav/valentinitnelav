@@ -1,6 +1,6 @@
 ### Hi, I'm Valentin 👋
 
-I like to build open tools that help researchers monitor biodiversity with affordable smartphones and computer vision.
+I like to build open-source tools that help researchers monitor biodiversity with affordable smartphones and computer vision.
 
 Postdoc at [UFZ](https://www.ufz.de/) and [iDiv](https://www.idiv.de/) in Leipzig, Germany.
 
