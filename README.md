@@ -1,16 +1,17 @@
 ### Hi, I'm Valentin 👋
 
-I like to build open-source tools that help researchers monitor biodiversity with affordable smartphones and computer vision.
+I am a postdoc at [UFZ](https://www.ufz.de/) and [iDiv](https://www.idiv.de/) in Leipzig, Germany.
 
-Postdoc at [UFZ](https://www.ufz.de/) and [iDiv](https://www.idiv.de/) in Leipzig, Germany.
+I enjoy building open-source tools that help turn biodiversity observations into useful data and insights. My work ranges from scientific R packages for data processing and analysis to computer vision and AI-powered smartphone apps.
+I'm particularly interested in making biodiversity monitoring more accessible through affordable smartphones and on-device AI.
 
 More about my work, software and publications: [**GitHub website**](https://valentinitnelav.github.io/)
 
 **Work with me:**
 
-- Training and deploying detection/classification models for camera and field imagery
-- Turning raw image collections into clean, annotated, analysis-ready datasets
-- Statistical analysis with reproducible workflows
+- Training, tuning and deploying AI models
+- Turning raw image collections into analysis-ready datasets
+- Statistical analysis with documented and reproducible workflows
 
 📫 You can reach out to me via [LinkedIn](https://www.linkedin.com/in/valentin-stefan/)
 
