@@ -15,7 +15,7 @@ More about my work, software and publications: [**GitHub website**](https://vale
 
 :mailbox: You can reach out to me via [LinkedIn](https://www.linkedin.com/in/valentin-stefan/)
 
-Email is an option too (valentin [dot] stefan [at] idiv.de, or ufz.de), but those inboxes get cluttered with a lot of spam & phishing nowadays, so LinkedIn is safer.
+Email is an option too (*valentin* [dot] *stefan* [at] *idiv.de*, or *ufz.de*), but those inboxes get cluttered with a lot of spam & phishing nowadays, so LinkedIn is safer.
 
 I manage pretty well in English, get by in French, am terrible at German, and am fluent in Romanian, though that last one doesn't come in particularly handy :blush:
 
