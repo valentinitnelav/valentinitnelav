@@ -1,4 +1,4 @@
-### Hi, I'm Valentin 👋
+### Hi, I'm Valentin :wave:
 
 I am a postdoc at [UFZ](https://www.ufz.de/) and [iDiv](https://www.idiv.de/) in Leipzig, Germany.
 
@@ -13,9 +13,11 @@ More about my work, software and publications: [**GitHub website**](https://vale
 - Turning raw image collections into analysis-ready datasets
 - Statistical analysis with documented and reproducible workflows
 
-📫 You can reach out to me via [LinkedIn](https://www.linkedin.com/in/valentin-stefan/)
+:mailbox: You can reach out to me via [LinkedIn](https://www.linkedin.com/in/valentin-stefan/)
 
 Email is an option too (valentin [dot] stefan [at] idiv.de, or ufz.de), but those inboxes get cluttered with a lot of spam & phishing nowadays, so LinkedIn is safer.
+
+I manage pretty well in English, get by in French, am terrible at German, and am fluent in Romanian, though that last one doesn't come in particularly handy :blush:
 
 ---
 [GitHub website](https://valentinitnelav.github.io/) ·
