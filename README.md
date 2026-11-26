@@ -2,8 +2,9 @@
 
 I am a postdoc at [UFZ](https://www.ufz.de/) and [iDiv](https://www.idiv.de/) in Leipzig, Germany.
 
-I enjoy building open-source tools that help turn biodiversity observations into useful data and insights. My work ranges from scientific R packages for data processing and analysis to computer vision and AI-powered smartphone apps.
-I'm particularly interested in making biodiversity monitoring more accessible through affordable smartphones and on-device AI.
+I enjoy building tools that help turn biodiversity observations into useful data and insights. My interests, skills and work range from statistics, data viz, GIS, machine learning & computer vision to software development and AI-powered smartphone apps.
+
+Right now, I'm particularly interested in making biodiversity monitoring more accessible through affordable smartphones and on-device AI.
 
 More about my work, software and publications: [**GitHub website**](https://valentinitnelav.github.io/)
 
@@ -15,9 +16,7 @@ More about my work, software and publications: [**GitHub website**](https://vale
 
 :mailbox: You can reach out to me via [LinkedIn](https://www.linkedin.com/in/valentin-stefan/)
 
-Email is an option too (*valentin* [dot] *stefan* [at] *ufz.de*), but those inboxes get cluttered with a lot of spam & phishing nowadays, so LinkedIn is safer.
-
-I manage pretty well in English, get by in French, am terrible at German, and am fluent in Romanian, though that last one doesn't come in particularly handy :blush:
+Email is an option too (*valentin* [dot] *stefan* [at] *ufz.de*)
 
 ---
 [GitHub website](https://valentinitnelav.github.io/) ·
