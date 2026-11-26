@@ -15,10 +15,12 @@ Work with me as a partner or consultant to:
 - Turn images, videos, and text into analysis-ready datasets
 - Build statistical analysis and machine learning pipelines with documented, reproducible workflows
 
-:mailbox: Contact:
+:mailbox: Contact
 
-- [LinkedIn](https://www.linkedin.com/in/valentin-stefan/).
-- E-mail UFZ (*valentin*[dot]*stefan*[at]*ufz.de*), or G-mail (*biodiv*[dot]*pulse*[at]*gmail.com*)
+- [LinkedIn](https://www.linkedin.com/in/valentin-stefan/)
+- E-mails
+  - UFZ:    *valentin*[dot]*stefan*[at]*ufz.de*
+  - G-mail: *biodiv*[dot]*pulse*[at]*gmail.com*
 
 ---
 [GitHub website](https://valentinitnelav.github.io/) ·
