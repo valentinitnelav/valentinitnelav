@@ -8,12 +8,12 @@ Right now, I'm particularly interested in making biodiversity monitoring more ac
 
 More about my work, software and publications: [**GitHub website**](https://valentinitnelav.github.io/)
 
-**Work with me as consultant:**
- 
-- Develop & adapt tools and software for your data & research workflows
-- Training, tuning and deploying computer vision models on edge devices, GPU workstations or clusters
-- Turning images, videos & text into analysis-ready datasets
-- Statistical analysis & machine learning with documented and reproducible workflows
+Work with me as a partner or consultant to:
+
+- Develop and adapt tools and software for your data and research workflows
+- Train, tune, and deploy computer vision models on edge devices, GPU workstations, or clusters
+- Turn images, videos, and text into analysis-ready datasets
+- Build statistical analysis and machine learning pipelines with documented, reproducible workflows
 
 :mailbox: You can reach out to me via [LinkedIn](https://www.linkedin.com/in/valentin-stefan/)
 
